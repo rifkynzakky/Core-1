@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Core 1 Aplikasi</string>
+
+    // Declaration of String for the Score button
+    <string name="total"><font size="40"></font></string>
+
+    // Declaration of String for the Add, Steal and Reset button in Indonesian
+    <string name="score"> NAMBAH </string>
+    <string name="steal"> KURANGIN </string>
+    <string name="reset"> MENGATUR ULANG </string>
+</resources>
+

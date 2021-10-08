@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Core 1 App</string>
+
+    // Declaration of String for the Score button
+    <string name="total"><font size="40" /></string>
+
+    // Declaration of String for the Add, Steal and Reset button
+    <string name="score"> SCORE </string>
+    <string name="steal"> STEAL </string>
+    <string name="reset"> RESET </string>
+</resources>
+
